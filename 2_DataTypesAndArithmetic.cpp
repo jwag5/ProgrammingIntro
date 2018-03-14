@@ -31,7 +31,7 @@ int main() {
 */
   int anotherInteger = 7;
   myInteger = 3;
-*/
+/*
   Now that we have some variables, we can practice some arithmetic with them! c++ has
   several operators to do so: addition (+), subtraction (-), multiplication(*),
   division (/), and modulo (%). We can use these just as you would suspect.
