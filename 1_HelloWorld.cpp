@@ -67,7 +67,9 @@ int main() {
 }
 /*
   Notice the curly braces at the start of the definiton for main and at the end. These encompass
-  the scope of 'main'. c++ as a language requires that functions be enclosed in these braces.
+  the scope of 'main'. c++ as a language requires that functions be enclosed in these braces. 
+  Also, notice the semicolons at the end of every statement. These are a neccessary syntax in
+  c++. They indicate the end of line/piece of logic to the compiler. Dont forget these guys!
   
   Well, thats it! Good job! Go ahead and compile this and run it!
 */
